@@ -118,10 +118,6 @@ In conclusion, the Speech Denoising Project represents a significant endeavor at
 
 ---
 
-This README provides a comprehensive overview of the Speech Denoising Project, showcasing expertise in deep learning, signal processing, and practical problem-solving skills. It presents the project in a formal and structured manner, appealing to hiring managers and recruiters in the field of Data Science, ML Engineering, and Deep Learning Engineering.
-
-
-
 ## Limitations
 While our models show promising results, it's important to acknowledge their limitations. They may not perform optimally in all scenarios, especially in cases where the noise characteristics are significantly different from our training data.
 
@@ -133,14 +129,7 @@ To get started with the Speech Denoising Project, follow these steps:
 4. Experiment with different model architectures and parameters to fine-tune performance.
 
 ## Acknowledgement
-We would like to express our gratitude to Prof. K for inspiring this project with his insightful lectures. Additionally, we thank the developers of TensorFlow, PyTorch, and Librosa for providing the tools and libraries that made this project possible.
+This project would like to thank the developers of TensorFlow, and Librosa for providing the tools and libraries for Deep Learning and Speech Processing that made this project possible.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Conclusion
-In this project, we're embarking on an exhilarating journey at the intersection of deep learning and signal processing. Armed with cutting-edge technologies and a passion for excellence, we're poised to revolutionize the way we experience and interact with speech recordings. Join us on this adventure as we transform noisy audio into crystal-clear soundscapes, one neural network at a time.
-
----
-
-This comprehensive README encapsulates the essence of the Speech Denoising Project, showcasing your expertise in deep learning, signal processing, and practical problem-solving skills. With its engaging narrative and detailed insights, it's sure to captivate the attention of hiring managers and recruiters, positioning you as an exceptional candidate for roles in Data Science, ML Engineering, and Deep Learning Engineering.
