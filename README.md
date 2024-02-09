@@ -123,8 +123,8 @@ While our models show promising results, it's important to acknowledge their lim
 
 ## Getting Started
 To get started with the Speech Denoising Project, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the necessary dependencies listed in the `requirements.txt` file.
+1. Clone the repository: `git clone [repository_url]`
+2. Install dependencies: `pip install -r requirements.txt`
 3. Explore the Jupyter notebooks and scripts to understand the implementation details.
 4. Experiment with different model architectures and parameters to fine-tune performance.
 
